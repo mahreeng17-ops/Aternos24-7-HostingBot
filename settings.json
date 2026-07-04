@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PlayLunarSmp.aternos.me,
-    "port": 56317
+    "ip": "PlayLunarSmp.aternos.me",
+    "port": 56317,
     "version": "",
     "try-creative": false
   },
@@ -85,3 +85,4 @@
     "respond": true
   }
 }
+
