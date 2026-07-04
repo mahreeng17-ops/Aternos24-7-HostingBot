@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "PlayLunarSmp.aternos.me,
+    "port": 56317
     "version": "",
     "try-creative": false
   },
